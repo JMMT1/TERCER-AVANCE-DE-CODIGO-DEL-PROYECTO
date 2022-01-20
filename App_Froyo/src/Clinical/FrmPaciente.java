@@ -20,7 +20,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jesus Chavez
+ * @author Admin
  */
 public class FrmPaciente extends javax.swing.JFrame {
 
