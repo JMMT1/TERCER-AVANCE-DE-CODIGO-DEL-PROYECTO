@@ -1,0 +1,11 @@
+Nombre: Levi Caro Alvarado
+Edad: 20 años
+Correo:  levi@levi.com
+Sexo:  M
+Domicilio: calle 1ra 
+Altura: 1.90
+Peso: 80kg
+Alergias: ninguna
+Doctor: Dr.Patrico
+Hisotiral clinico: a
+Pacedimientos: 
