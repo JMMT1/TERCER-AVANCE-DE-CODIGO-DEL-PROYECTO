@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jesus Chavez
+ * @author Admin
  */
 public class Paciente extends Datos_Personales {
 
