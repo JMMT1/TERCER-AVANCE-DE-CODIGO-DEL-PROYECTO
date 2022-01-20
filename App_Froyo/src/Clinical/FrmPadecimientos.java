@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jesus Chavez
+ * @author Admin
  */
 public class FrmPadecimientos extends javax.swing.JFrame {
 
