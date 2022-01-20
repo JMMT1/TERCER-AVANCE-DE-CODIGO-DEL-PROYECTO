@@ -9,7 +9,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Jesus Chavez
+ * @author Admin
  */
 public class FrmDoctoresRegistrados extends javax.swing.JFrame {
 
