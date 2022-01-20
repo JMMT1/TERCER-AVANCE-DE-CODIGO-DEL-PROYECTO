@@ -7,7 +7,7 @@ package Clinical;
 
 /**
  *
- * @author Jesus Chavez
+ * @author Admin
  */
 public abstract class Datos_Personales {
     String nombre, correo, edad, sexo, telefono, domicilio;
