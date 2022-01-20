@@ -7,7 +7,7 @@ package Clinical;
 
 /**
  *
- * @author Jesus Chavez
+ * @author Admin
  */
 public class Nodos {
     
